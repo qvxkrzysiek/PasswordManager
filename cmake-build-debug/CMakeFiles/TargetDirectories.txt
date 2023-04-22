@@ -1,0 +1,3 @@
+C:/Users/supse/Desktop/PROJEKT PJC/cmake-build-debug/CMakeFiles/PROJEKT_PJC.dir
+C:/Users/supse/Desktop/PROJEKT PJC/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/supse/Desktop/PROJEKT PJC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
